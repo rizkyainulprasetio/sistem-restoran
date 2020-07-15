@@ -1,0 +1,17 @@
+D:\Rizky\Data Kuliah Rizky Ainul Prasetio\Semester 4\Rekayasa Perangkat Lunak\Sistem Restoran\SistemRestoran\SistemRestoran\bin\Debug\SistemRestoran.exe
+D:\Rizky\Data Kuliah Rizky Ainul Prasetio\Semester 4\Rekayasa Perangkat Lunak\Sistem Restoran\SistemRestoran\SistemRestoran\bin\Debug\SistemRestoran.pdb
+D:\Rizky\Data Kuliah Rizky Ainul Prasetio\Semester 4\Rekayasa Perangkat Lunak\Sistem Restoran\SistemRestoran\SistemRestoran\bin\Debug\SistemRestoran.xml
+D:\Rizky\Data Kuliah Rizky Ainul Prasetio\Semester 4\Rekayasa Perangkat Lunak\Sistem Restoran\SistemRestoran\SistemRestoran\obj\x86\Debug\SistemRestoran.SelamatDatang.resources
+D:\Rizky\Data Kuliah Rizky Ainul Prasetio\Semester 4\Rekayasa Perangkat Lunak\Sistem Restoran\SistemRestoran\SistemRestoran\obj\x86\Debug\SistemRestoran.Resources.resources
+D:\Rizky\Data Kuliah Rizky Ainul Prasetio\Semester 4\Rekayasa Perangkat Lunak\Sistem Restoran\SistemRestoran\SistemRestoran\obj\x86\Debug\SistemRestoran.vbproj.GenerateResource.Cache
+D:\Rizky\Data Kuliah Rizky Ainul Prasetio\Semester 4\Rekayasa Perangkat Lunak\Sistem Restoran\SistemRestoran\SistemRestoran\obj\x86\Debug\SistemRestoran.exe
+D:\Rizky\Data Kuliah Rizky Ainul Prasetio\Semester 4\Rekayasa Perangkat Lunak\Sistem Restoran\SistemRestoran\SistemRestoran\obj\x86\Debug\SistemRestoran.xml
+D:\Rizky\Data Kuliah Rizky Ainul Prasetio\Semester 4\Rekayasa Perangkat Lunak\Sistem Restoran\SistemRestoran\SistemRestoran\obj\x86\Debug\SistemRestoran.pdb
+D:\Rizky\Data Kuliah Rizky Ainul Prasetio\Semester 4\Rekayasa Perangkat Lunak\Sistem Restoran\SistemRestoran\SistemRestoran\obj\x86\Debug\SistemRestoran.Form2.resources
+D:\Rizky\Data Kuliah Rizky Ainul Prasetio\Semester 4\Rekayasa Perangkat Lunak\Sistem Restoran\SistemRestoran\SistemRestoran\obj\x86\Debug\SistemRestoran.Murstrn_madu_al_zikrah.resources
+D:\Rizky\Data Kuliah Rizky Ainul Prasetio\Semester 4\Rekayasa Perangkat Lunak\Sistem Restoran\SistemRestoran\SistemRestoran\obj\x86\Debug\SistemRestoran.No_meja.resources
+D:\Rizky\Data Kuliah Rizky Ainul Prasetio\Semester 4\Rekayasa Perangkat Lunak\Sistem Restoran\SistemRestoran\SistemRestoran\obj\x86\Debug\SistemRestoran.Crmmbuat_pesanan.resources
+D:\Rizky\Data Kuliah Rizky Ainul Prasetio\Semester 4\Rekayasa Perangkat Lunak\Sistem Restoran\SistemRestoran\SistemRestoran\bin\Debug\SistemRestoran.exe.manifest
+D:\Rizky\Data Kuliah Rizky Ainul Prasetio\Semester 4\Rekayasa Perangkat Lunak\Sistem Restoran\SistemRestoran\SistemRestoran\bin\Debug\SistemRestoran.application
+D:\Rizky\Data Kuliah Rizky Ainul Prasetio\Semester 4\Rekayasa Perangkat Lunak\Sistem Restoran\SistemRestoran\SistemRestoran\obj\x86\Debug\SistemRestoran.exe.manifest
+D:\Rizky\Data Kuliah Rizky Ainul Prasetio\Semester 4\Rekayasa Perangkat Lunak\Sistem Restoran\SistemRestoran\SistemRestoran\obj\x86\Debug\SistemRestoran.application
